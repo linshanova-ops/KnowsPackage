@@ -33,7 +33,7 @@ Turn graded signals into a short, prioritized list of things the reader should *
 - **Traceability:** every suggestion cites at least one signal; no suggestions from general knowledge with no basis in today's analysis.
 - **Specific observables only:** name the release, the level, the spread, the meeting date. "Monitor the situation" is banned phrasing.
 - **Carry state across days** when prior reports are available: mark each item as new / continuing / escalated / retired, and explicitly retire items whose invalidators hit. A watch-list that only grows is not being maintained.
-- **Include one contrarian check when warranted:** if the day's signals all point one way, add a suggestion for what would indicate the consensus reading is wrong.
+- **Include one contrarian check when warranted:** if the day's signals all point one way, add a suggestion for what would indicate the consensus reading is wrong. It counts toward the 5-item cap.
 - **No trade recommendations.** Allowed: "elevated risk for X assets", "conditions favor reviewing exposure to Y". Not allowed: "buy/sell/short Z", target prices, allocations.
 
 ## Priority Guide

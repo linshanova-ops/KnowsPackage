@@ -9,7 +9,7 @@
 | 3 — Reputable secondary | Fill gaps, cross-check | CNBC, MarketWatch, Yahoo Finance, Barron's, The Economist |
 | 4 — Aggregators & social | Leads only — always verify against tier 1–3 | Google News, Reddit, X/Twitter, Seeking Alpha |
 
-Rule: a signal-driving item needs at least one tier 1–2 source. Tier 4 alone is never sufficient.
+Rule: prefer at least one tier 1–2 source for signal-driving items. If only tier 3–4 coverage exists, the item may still be used but must be marked `single-source` and flagged in the report's caveats. Tier 4 alone is never sufficient for a STRONG signal.
 
 ## China Coverage
 

@@ -38,7 +38,7 @@
 2. **[MEDIUM] {...}**
 3. **[LOW] {...}**
 
-Retired since last report: {items whose invalidators hit, or omit this line if none/no prior report}
+Retired since last report: {items whose invalidators hit; omit this line entirely on the first report or when nothing was retired}
 
 ## Sources & Caveats
 

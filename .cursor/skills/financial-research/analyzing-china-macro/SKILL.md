@@ -62,4 +62,4 @@ Produce a China-level situation assessment from a verified news log. China requi
 - **Reading China with a Western central-bank lens.** PBOC targets multiple objectives (growth, FX stability, leverage) simultaneously; a single-rate cut isn't the whole stance.
 - **Ignoring the fix.** The daily CNY central parity is one of the most reliable daily policy signals available and rarely makes headlines.
 - **Treating stimulus headlines as automatically bullish.** Large stimulus can signal that conditions are worse than official data shows — note both readings.
-- **Only using English sources.** Key details often appear in Chinese-language outlets hours earlier; see the sources reference in `gathering-financial-news`.
+- **Only using English sources.** Key details often appear in Chinese-language outlets hours earlier; see the sources reference in `gathering-financial-news`. If tooling can't reach Chinese outlets directly, Xinhua English, Caixin Global, SCMP, and wire China desks are acceptable substitutes — note the limitation rather than silently narrowing coverage.

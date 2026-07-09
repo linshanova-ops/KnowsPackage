@@ -26,7 +26,7 @@ Run stages in order. Read each stage's skill before executing it.
 
 ## Quality Gates (check before advancing)
 
-- **After stage 1:** Every item has a publication date from the last 24–48 hours and a named source. Discard undated or stale items — do not carry them forward "for context" unless explicitly labeled as background.
+- **After stage 1:** Every item has a publication date within the coverage window (see Defaults) and a named source. Discard undated or stale items — do not carry them forward "for context" unless explicitly labeled as background.
 - **After stages 2–3:** Every claim in the assessment cites a news-log item. No claims from memory of "how things usually are."
 - **After stage 4:** Every signal is graded (strong/moderate/weak) with reasoning. Ungraded observations stay out of the suggestions stage.
 - **After stage 5:** Max 5 suggestions, each with a trigger and an invalidator.
@@ -34,10 +34,10 @@ Run stages in order. Read each stage's skill before executing it.
 
 ## Defaults (override only if user specifies)
 
-- Coverage window: last 24 hours (weekend/Monday: last 72 hours)
+- Coverage window: last 24 hours (weekend/Monday: last 72 hours). When running during Asian morning hours, the prior US session counts as today's news.
 - Scope: global + China (both always; user may narrow)
 - Language: match the user's request language
-- Report length: readable in ~5 minutes (~1,000–1,500 words)
+- Report length: readable in ~5 minutes (~1,000–1,500 words; up to ~1,800 on days with multiple major stories)
 
 ## Common Mistakes
 

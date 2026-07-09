@@ -44,7 +44,7 @@ Dollar strength/weakness and its pressure on EM and commodities; oil as both inf
 
 **What it implies:** 2–3 conditional statements ("if X continues, expect pressure on Y").
 
-**Tensions/divergences:** anything that doesn't fit the regime story. This section may not be empty-by-default — actively look.
+**Tensions/divergences:** anything that doesn't fit the regime story. Don't leave this empty by default — actively look before concluding there are none.
 ```
 
 ## Common Mistakes
