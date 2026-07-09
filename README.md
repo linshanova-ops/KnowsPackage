@@ -1,8 +1,6 @@
-# KnowsPackage
+# Daily Financial Insights
 
-## Financial Research Skills
-
-A suite of Cursor Agent Skills in `.cursor/skills/financial-research/` covering the full daily financial research pipeline — from gathering the day's news to a finished report with practical suggestions.
+Cursor Agent Skills for the full daily financial research pipeline — from gathering the latest global and China financial news to a finished briefing with practical suggestions.
 
 **Entry point:** ask the agent for a "daily financial briefing" (or invoke `/daily-financial-briefing`). It orchestrates the stages below in order.
 
@@ -17,5 +15,22 @@ A suite of Cursor Agent Skills in `.cursor/skills/financial-research/` covering 
 | `writing-daily-financial-report` | 6 | Assembles everything into the final report (+ report template) |
 
 Each stage skill also works standalone (e.g. "what does this news signal?" triggers `interpreting-market-signals` directly).
+
+## Setup
+
+Clone this repo into your project (or copy `.cursor/skills/financial-research/` into an existing project's `.cursor/skills/` directory). Cursor discovers skills automatically from `.cursor/skills/`.
+
+## Usage
+
+```
+Give me today's daily financial briefing
+```
+
+Or invoke individual stages:
+
+```
+What does today's PBOC statement signal?
+Analyze China's macro situation from today's news
+```
 
 All output is research synthesis, not investment advice.
